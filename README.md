@@ -6,14 +6,6 @@ Welcome to my portfolio repository! This project showcases my skills, technical 
 
 [View My Portfolio](https://kamilathrifka.vercel.app)
 
-## 🛠️ Tech Stack
-
-- **Languages:** Java, JavaScript, TypeScript, Python, SQL
-- **Automation:** Playwright, Selenium, TestNG
-- **API Testing:** Postman, REST APIs
-- **Tools:** Git, GitHub, Maven, Jenkins
-- **Web Technologies:** HTML, CSS, JavaScript
-
 ## ✨ Features
 
 - Responsive portfolio website
